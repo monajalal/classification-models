@@ -1,0 +1,14 @@
+--2022-03-03 00:53:10--  https://www.freeiconspng.com/thumbs/cat-png/cat-png-26.png
+Resolving webproxy.bu.edu (webproxy.bu.edu)... 128.197.228.95
+Connecting to webproxy.bu.edu (webproxy.bu.edu)|128.197.228.95|:8900... connected.
+Proxy request sent, awaiting response... 200 OK
+Length: 183438 (179K) [image/png]
+Saving to: ‘cat-png-26.png’
+
+     0K .......... .......... .......... .......... .......... 27%  228K 1s
+    50K .......... .......... .......... .......... .......... 55%  229K 0s
+   100K .......... .......... .......... .......... .......... 83%  229K 0s
+   150K .......... .......... .........                       100%  231M=0.7s
+
+2022-03-03 00:53:11 (273 KB/s) - ‘cat-png-26.png’ saved [183438/183438]
+

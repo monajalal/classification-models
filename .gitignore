@@ -1,0 +1,6 @@
+data/
+.ipynb_checkpoints/
+__pycache__/
+hymenoptera_data.zip
+hymenoptera_data/
+linear_ViT.py
